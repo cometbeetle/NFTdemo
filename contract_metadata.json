@@ -1,0 +1,7 @@
+{
+  "name": "Test NFT - GITHUB METADATA",
+  "description": "This collection includes metadata from GitHub as a test for future projects.",
+  "external_link": "https://github.com/cometbeetle/NFTdemo",
+  "seller_fee_basis_points": 0, # Indicates a 0% seller fee.
+  "fee_recipient": "0x1c5F6C563551bA70DcfB69Dd132c63620F69ADe4" # Where seller fees will be paid to.
+}
